@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm Pravin Katare, B.tech Artificial Intelligence And Machine Learning Student at Alard Univrsity Pune and tech enthusiast passionate about Artificial Intelligence and Machine Learning. I'm building strong foundations in Python, DSA, and ML while working on projects that help me understand real-world Al applications.<br> My goal is to become an ML Engineer, and I'm actively improving my skills, contributing to projects
+i'm Pravin Katare, B.tech Artificial Intelligence And Machine Learning Student at Alard Univrsity Pune and tech enthusiast passionate about Artificial Intelligence and Machine Learning. I'm building strong foundations in Python, DSA, and ML while working on projects that help me understand real-world Al applications,My goal is to become an ML Engineer, and I'm actively improving my skills, contributing to projects
 
 
 ## 🌐 Socials:
